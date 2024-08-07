@@ -6,9 +6,9 @@ from typing import Any, Optional, cast
 from fabric import Connection
 from invoke.runners import Promise
 
-from .config import Config
-from .config import cmd as run_conf
-from .config import ssh as ssh_conf
+from config import Config
+from config import cmd as run_conf
+from config import ssh as ssh_conf
 
 
 class SshSession:
