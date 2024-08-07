@@ -5,9 +5,10 @@
 目前仅支持 QQ 官方 API
 
 
+
 <div style="text-align: center">
-    <p lang="zh-CN"><strong>使用后果自负</strong></p>
-    <p lang="en"><strong>USE AT OWN RISK</strong></p>
+    <p lang="zh-CN"><strong>警告⚠️发布前未经测试<br>使用后果自负</strong></p>
+    <p lang="en"><strong>CAUTION⚠️NOT TESTED<br>USE AT OWN RISK</strong></p>
     <p lang="zh-CN">（图文无关）</p>
     <figure>
         <img src="https://imgos.cn/2024/08/07/66b2f5557211a.png" title="家里云生前最后影像" alt="一个人在具有 shell 功能的 QQ 机器人上执行了 whoami，返回结果是 root，另一个人马上开始运行 rm -rf /*，并成功执行。">
